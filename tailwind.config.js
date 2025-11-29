@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        zentry: ["var(--font-zentry)", "sans-serif"],
+        MotionHive: ["MotionHive", "sans-serif"],
         general: ["general", "sans-serif"],
         "circular-web": ["circular-web", "sans-serif"],
         "robert-medium": ["robert-medium", "sans-serif"],
